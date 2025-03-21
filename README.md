@@ -3,4 +3,10 @@ Developed a Branch Dashboard for the insurance sector, leveraging SQL and Power 
 
 POWERBI DASHBOARD
 
-![Image](https://github.com/user-attachments/assets/e36846ee-19b0-41b6-80c5-a09cbfa07d39)
+![Image](https://github.com/user-attachments/assets/e36846ee-19b0-41b6-80c5-a09cbfa07d39) 
+
+
+
+EXCEL DASHBOARD
+
+![Image](https://github.com/user-attachments/assets/784163d9-5cef-4f50-a647-45ab70d54178)
